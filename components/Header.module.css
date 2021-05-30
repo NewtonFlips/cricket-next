@@ -1,0 +1,9 @@
+.header {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to bottom, #00000020, #00000080),
+    url("https://images.unsplash.com/photo-1567346953362-1bb30e3c10ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFyZW5hfGVufDB8fDB8YmxhY2t8&ixlib=rb-1.2.1&auto=format&fit=crop&w=900&q=60");
+  background-position: center;
+  background-size: cover;
+}

@@ -1,0 +1,33 @@
+.header__textBox {
+  display: flex;
+  flex-direction: column;
+  width: 80rem;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 10rem;
+}
+
+.headingPrimary {
+  font-weight: 800;
+  color: #fff;
+  font-size: 8rem;
+}
+
+.headingPrimary__headLine {
+  font-size: 2rem;
+  color: #fff;
+  margin: 4rem 0 10rem 0;
+}
+
+.headingPrimary__actionBtn {
+  color: #bf003d;
+  text-decoration: none;
+  display: inline-block;
+  padding: 2rem 4rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  font-size: 3rem;
+  font-weight: 800;
+  width: fit-content;
+  align-self: flex-end;
+}

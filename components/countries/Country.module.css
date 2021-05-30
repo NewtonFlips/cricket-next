@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  margin-bottom: 3rem;
+  height: 20rem;
+  overflow: hidden;
+}
+
+.container:hover {
+  cursor: pointer;
+}
+
+.container__content {
+  padding: 2rem 4rem;
+  width: 100%;
+}
+
+.container__content h2 {
+  font-size: 4rem;
+}
+
+.container__content p {
+  font-size: 2rem;
+}
+
+.container__content p span {
+  font-weight: 800;
+}

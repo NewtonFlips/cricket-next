@@ -1,0 +1,25 @@
+.header__nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 0;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.header__navItem {
+  display: block;
+  padding: 1rem 2rem;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.8rem;
+  border-bottom: 0.4rem solid transparent;
+  transition: all 0.5s;
+}
+
+.header__navItem:hover {
+  border-color: #fff;
+}
+
+.header__navItem:not(:last-child) {
+  margin-right: 2rem;
+}

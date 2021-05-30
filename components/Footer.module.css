@@ -1,0 +1,15 @@
+.footer {
+  height: 20vh;
+  text-align: center;
+  padding-top: 4rem;
+}
+
+.footer p {
+  font-size: 2rem;
+}
+
+.profile {
+  text-decoration: none;
+  color: #bf003d;
+  font-weight: 800;
+}
